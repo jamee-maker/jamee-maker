@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ![placeholder name] (paste image link here)
+  ![image] (1622709_1449846298580776_986587_n (1).jpg)
 <!--
 **jamee-maker/jamee-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
