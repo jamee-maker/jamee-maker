@@ -1,12 +1,12 @@
 <div class="row">
   <div class="column">
 <a href="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y"> 
-<img src="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y" width="400" height="300"> 
+<img src="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y" width="300" height="200"> 
 </a>
   </div>
   <div class="column">
     <a href="https://drive.google.com/uc?export=view&id=1wyRKJ78RQfCJUWGmgQiT6ptUtbsUdaE3">
-    <img src="https://drive.google.com/uc?export=view&id=1wyRKJ78RQfCJUWGmgQiT6ptUtbsUdaE3" width="400" height="300">
+    <img src="https://drive.google.com/uc?export=view&id=1wyRKJ78RQfCJUWGmgQiT6ptUtbsUdaE3" width="300" height="200">
     </a>
   </div>
   </div>
