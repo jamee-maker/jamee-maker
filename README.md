@@ -1,7 +1,13 @@
-
-<a href="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y"> <img src="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y" width="350" height="350"/> 
+<div class="row">
+  <div class="column">
+<a href="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y"> 
+<img src="https://drive.google.com/uc?export=view&id=1bK8y6I6AImQYG2tF6vgNRT-sOQHamI6y" width="400" height="300"> 
 </a>
-
+  </div>
+  <div class="column">
+    <a href="https://drive.google.com/uc?export=view&id=1wyRKJ78RQfCJUWGmgQiT6ptUtbsUdaE3">
+    <img src="https://drive.google.com/uc?export=view&id=1wyRKJ78RQfCJUWGmgQiT6ptUtbsUdaE3" width="400" height="300">
+    </a>
 Making the decision to pursue a career in software development was an easy one. I am a fellow at Pursuit, an intensive 12-month software engineering fellowship with a 9% acceptance rate. Joining this fellowship has been a highlight-  as I am excited to be part of the next generation of tech! 
 
 I have a passion for music, and in particular, audio mixing. I'm familiar with Logic Pro X, Reason, and FL Studio. My background in audio has provided me with an appreciation for attention to fine detail, which I aim to incorporate into my software development.  I love soccer in any way, shape, or form. I also enjoy fitness, combat training, and yoga. 
