@@ -3,7 +3,11 @@
 </div>
 
 
+
+
 <div>
+
+
 
 Making the decision to pursue a career in software development was an easy one. I am a fellow at Pursuit, an intensive 12-month software engineering fellowship with a 9% acceptance rate. Joining this fellowship has been a highlight-  as I am excited to be part of the next generation of tech! 
 
